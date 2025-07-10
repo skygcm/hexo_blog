@@ -58,7 +58,7 @@ favicon: /images/favicon.svg
 
 avatar:
   img: /images/avatar.jpg
-  effect: true
+  effect: false
 
 # Disable all banner images
 disable_top_img: false
@@ -453,7 +453,7 @@ busuanzi:
 math:
   # Choose: mathjax, katex
   # Leave it empty if you don't need math
-  use:
+  use: katex
   per_page: true
   hide_scrollbar: false
 
@@ -465,7 +465,7 @@ math:
 
   katex:
     # Enable the copy KaTeX formula
-    copy_tex: false
+    copy_tex: true
 
 # --------------------------------------
 # Search
