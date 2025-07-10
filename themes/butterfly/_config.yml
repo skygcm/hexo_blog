@@ -57,8 +57,8 @@ social:
 favicon: /images/favicon.svg
 
 avatar:
-  img: /img/butterfly-icon.png
-  effect: false
+  img: /images/avatar.jpg
+  effect: true
 
 # Disable all banner images
 disable_top_img: false
@@ -119,11 +119,11 @@ post_meta:
   # Home Page
   page:
     # Choose: created / updated / both
-    date_type: created
+    date_type: both
     # Choose: date / relative
     date_format: date
     categories: true
-    tags: false
+    tags: true
     label: true
   post:
     # Choose: left / center
