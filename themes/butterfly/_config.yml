@@ -18,10 +18,21 @@ nav:
   fixed: false
 
 menu:
-  # Home: / || fas fa-home
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
+  Home: / || fas fa-home
+  Archives: /archives/ || fas fa-archive
+  Tags: /tags/ || fas fa-tags
+  Categories: /categories/ || fas fa-folder-open
+  List||fas fa-list:
+    Music: /music/ || fas fa-music
+    Movie: /movies/ || fas fa-video
+  Link: /link/ || fas fa-link
+  About: /about/ || fas fa-heart
+
+
+作者: Jerry
+連結: https://butterfly.js.org/posts/4aa8abbe/#%E8%AA%9E%E8%A8%80
+來源: Butterfly
+版權屬於作者所有。商業用途請聯絡作者獲得授權，非商業用途請註明出處。
 
 # --------------------------------------
 # Code Blocks Settings
