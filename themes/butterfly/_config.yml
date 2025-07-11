@@ -393,13 +393,13 @@ darkmode:
   end:
 
 # Show scroll percent in scroll-to-top button
-rightside_scroll_percent: true
+rightside_scroll_percent: false
 
 # Don't modify the following settings unless you know how they work
 # Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
 # Don't repeat the same value
 rightside_item_order:
-  enable: true
+  enable: false
   # Default: readmode,translate,darkmode,hideAside
   hide:
   # Default: toc,chat,comment
@@ -416,7 +416,7 @@ anchor:
   # When you scroll, the URL will update according to header id.
   auto_update: false
   # Click the headline to scroll and update the anchor
-  click_to_scroll: false
+  click_to_scroll: true
 
 photofigcaption: true
 
