@@ -21,7 +21,7 @@ categories:
 
 
 
-#### digititalplat官网
+### digititalplat官网
 
 ![digititalplat官网](/images/2507-01/1-1.png)
 
@@ -29,7 +29,7 @@ categories:
 
 
 
-#### 美国身份生成器
+### 美国身份生成器
 
 ![美国身份生成](/images/2507-01/1-2.png)
 
@@ -37,7 +37,7 @@ categories:
 
 
 
-#### 任意邮箱（建议不要虚拟邮箱）
+### 任意邮箱（建议不要虚拟邮箱）
 
 ![邮箱](/images/2507-01/1-3.png)
 
@@ -51,11 +51,11 @@ categories:
 
 
 
-##### 可以是类似于 abcde@aaa.bbb.com 的自定义域名邮箱，实测不能为.org域名，后面注册 digititalplat账号 时会报错。
+可以是类似于 abcde@aaa.bbb.com 的自定义域名邮箱，实测不能为.org域名，后面注册 digititalplat账号 时会报错。
 
 
 
-#### github官网
+### github官网
 
 ![github官网](/images/2507-01/1-4.png)
 
