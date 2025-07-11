@@ -1,0 +1,15 @@
+- class_name: 友情链接
+  class_desc: 其他站点
+  link_list:
+    - name: 网易云音乐免费下载工具
+      link: https://ndl.skyxy.dpdns.org/
+      avatar: /images/ndl.png
+      descr: SVIP音乐免费下载
+    - name: skycloud天空云邮箱
+      link: https://mail.skyxy.dpdns.org/
+      avatar: /images/skycloud.svg
+      descr: 免费邮箱系统
+    - name: gitlab
+      link: https://gitlab.com/skyxy-group
+      avatar: /images/gitlab.svg
+      descr: GitLab个人主页
