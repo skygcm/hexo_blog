@@ -293,6 +293,7 @@ aside:
   card_announcement:
     enable: true
     content: <a href="https://space.bilibili.com/3546691953232797"><i class="fa-brands fa-bilibili"></i><span>bilibili</span></a>
+		<a href="https://gitlab.com/skyxy-group"><i class="fa-brands fa-gitlab><span>gitlab></a>
   card_recent_post:
     enable: true
     # If set 0 will show all
