@@ -290,7 +290,7 @@ aside:
       icon: fab fa-gitlab
       text: gitlab
       link: https://gitlab.com/skyxy-group
-    button:
+    button2:
       enable: true
       icon: fab fa-bilibili
       text: bilibili
