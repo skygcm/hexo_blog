@@ -42,7 +42,7 @@ categories:
 
 [126邮箱](https://mail.126.com)
 
-可以是类似于 abcde@aaa.bbb.com 的自定义域名邮箱，实测不能为.org域名，后面注册 digititalplat账号 时会报错。
+可以是类似于 `abcde@aaa.bbb.com` 的自定义域名邮箱，实测不能为`.org`域名，后面注册 digititalplat账号 时会报错。
 
 ### github官网
 
@@ -68,13 +68,13 @@ username自己填![username](/images/2507-01/2-2.png)
 
 ![美国身份生成器](/images/2507-01/2-3.png)
 
-将生成好的 全名 复制进 Legal Full Name 里面
+将生成好的 `全名` 复制进 `Legal Full Name` 里面
 
-Email 里面填自己的邮箱
+`Email` 里面填自己的邮箱
 
-把生成的 电话 按照 +1-xxxxxxxxxx 的格式复制进 Phone 里面，注意中间的两个横杠要删掉
+把生成的 电话 按照 `+1-xxxxxxxxxx` 的格式复制进 `Phone` 里面，注意中间的两个横杠要删掉
 
-再按照 街道地址, 城市, 州全称 的结构填进 Full Address 里面
+再按照 `街道地址, 城市, 州全称` 的结构填进 `Full Address` 里面
 
 最后输入密码
 
@@ -82,7 +82,7 @@ Email 里面填自己的邮箱
 
 ![digititalplat注册](/images/2507-01/2-4.png)
 
-然后点击 Register 注册账号
+然后点击 `Register` 注册账号
 
 填写无误的话是这样的：
 
@@ -90,23 +90,23 @@ Email 里面填自己的邮箱
 
 然后到你的邮箱去看，它会给你发两个邮件，随便点一个里面的注册链接即可
 
-当页面上显示 Success 之后，前往[digititalplat登录页面](https://dash.domain.digitalplat.org/auth/login)使用邮箱登录刚刚注册的账号
+当页面上显示 `Success` 之后，前往[digititalplat登录页面](https://dash.domain.digitalplat.org/auth/login)使用邮箱登录刚刚注册的账号
 
 登录完成之后，你应该会看到一个 KYC 验证页面
 
 ![KYC 验证](/images/2507-01/2-6.png)
 
-选择 GitHub OAuth
+选择 `GitHub OAuth`
 
-先不要点击下面的 Sign in with GitHub，先进入[GitHub注册页面](https://github.com/signup)注册GItHub账号
+先不要点击下面的 `Sign in with GitHub`，先进入[GitHub注册页面](https://github.com/signup)注册GItHub账号
 
 ![GitHub注册](/images/2507-01/2-7.png)
 
-Email 和 username自己填
+`Email` 和 `username`自己填
 
-Your Country/Region 不用动
+`Your Country/Region` 不用动
 
-填好以后点 Continue
+填好以后点 `Continue`
 
 然后过一下人机验证
 
@@ -118,13 +118,13 @@ Your Country/Region 不用动
 
 验证通过后会自动跳到登录界面，使用你的邮箱登录即可
 
-登录后，返回 KYC 验证页面，点击 Sign in with GitHub
+登录后，返回 KYC 验证页面，点击 `Sign in with GitHub`
 
 ![KYC验证](/images/2507-01/2-9.png)
 
-点击 Authorize EdwardLab
+点击 `Authorize EdwardLab`
 
-显示 Success 以后 不用管，直接返回 [digititalplat主页](https://dash.domain.digitalplat.org/panel/main)
+显示 `Success` 以后不用管，直接返回 [digititalplat主页](https://dash.domain.digitalplat.org/panel/main)
 
 这样就注册成功了
 
@@ -132,17 +132,17 @@ Your Country/Region 不用动
 
 进入[digititalplat主页](https://dash.domain.digitalplat.org/panel/main)
 
-点击侧边栏中的 Domain Registeration
+点击侧边栏中的 `Domain Registeration`
 
 ![注册域名](/images/2507-01/3-1.png)
 
 输入 Domain name
 
-域名后缀可以选择 .dpdns.org 或者 .qzz.io，只有这两个是免费的
+域名后缀可以选择 `.dpdns.org` 或者 `.qzz.io`，只有这两个是免费的
 
 然后勾选同意服务条款
 
-再点击 Check Availability
+再点击 `Check Availability`
 
 ![Check Availability](/images/2507-01/3-2.png)
 
@@ -154,27 +154,27 @@ Your Country/Region 不用动
 
 ![cloudflare官网](/images/2507-01/3-3.png)
 
-点击 添加域
+点击 `添加域`
 
 输入你刚刚注册的域名
 
-点击 继续
+点击 `继续`
 
 在 选择计划 页面，选择第一个 Free 计划
 
 ![激活域名](/images/2507-01/3-4.png)
 
-然后往下滑，点击 继续前往激活
+然后往下滑，点击 `继续前往激活`
 
 ![继续激活](/images/2507-01/3-5.png)
 
 再在这个页面向下滑，复制 Cloudflare 给你提供的两个名称服务器
 
-粘贴至 digititalplat域名注册界面 的 Name Server 1 和 Name Server 2里面
+粘贴至 digititalplat域名注册界面 的 `Name Server 1` 和 `Name Server 2` 里面
 
 点击注册按钮即可
 
-等待几分钟后 cloudflare 页面里的你刚刚注册的域名的从 名称服务器无效 变为 活动 就代表域名已经完全注册完毕了
+等待几分钟后 cloudflare 页面里的你刚刚注册的域名的从 `名称服务器无效` 变为 `活动` 就代表域名已经完全注册完毕了
 
 ## 获取额外的域名注册名额
 
@@ -194,9 +194,9 @@ Your Country/Region 不用动
 
 然后点击  [click here to verify](https://dash.domain.digitalplat.org/auth/kyc/github)
 
-当验证页面上显示 Success 后，就可以刷新 [digititalplat主页](https://dash.domain.digitalplat.org/panel/main)
+当验证页面上显示 `Success` 后，就可以刷新 [digititalplat主页](https://dash.domain.digitalplat.org/panel/main)
 
-然后 Max Domains Allowed 应该会从 1 变为 2
+然后 `Max Domains Allowed` 应该会从 1 变为 2
 
 这样就成功获取第二个域名注册名额了
 

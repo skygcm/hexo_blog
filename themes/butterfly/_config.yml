@@ -290,6 +290,11 @@ aside:
       icon: fab fa-gitlab
       text: gitlab
       link: https://gitlab.com/skyxy-group
+    button:
+      enable: true
+      icon: fab fa-bilibili
+      text: bilibili
+      link: https://space.bilibili.com/3546691953232797
   card_announcement:
     enable: true
     content: This is my Blog
