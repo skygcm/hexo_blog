@@ -293,7 +293,7 @@ aside:
       link: https://space.bilibili.com/3546691953232797
   card_announcement:
     enable: true
-    content: "<a href=\"https://gitlab.com/skyxy-group\">作者gitlab</a>"
+    content: "<a href=\"https://gitlab.com/skyxy-group\">作者gitlab </a>"
   card_recent_post:
     enable: true
     # If set 0 will show all
