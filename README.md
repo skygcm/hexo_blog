@@ -3,3 +3,5 @@
 ### eo加速blog : [https://blog.skyxy.qzz.io/](https://blog.skyxy.qzz.io/)
 ### cf原站blog : [https://blog.skyxy.dpdns.org/](https://blog.skyxy.dpdns.org/)
 ### 友链 : [https://blog.skyxy.qzz.io/friends](https://blog.skyxy.qzz.io/friends)
+
+### 添加友链 : [https://github.com/skygcm/hexo_blog/pulls](https://github.com/skygcm/hexo_blog/pulls)
