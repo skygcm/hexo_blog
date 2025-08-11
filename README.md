@@ -2,4 +2,4 @@
 
 ### eo加速blog : [https://blog.skyxy.qzz.io/](https://blog.skyxy.qzz.io/)
 ### cf原站blog : [https://blog.skyxy.dpdns.org/](https://blog.skyxy.dpdns.org/)
-### 友链 : [https://blog.skyxy.qzz.io/link/](https://blog.skyxy.qzz.io/link)
+### 友链 : [https://blog.skyxy.qzz.io/friends](https://blog.skyxy.qzz.io/friends)
