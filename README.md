@@ -1,5 +1,5 @@
 # sky小宇的blog
 
-### eo加速blog : [https://blog.skyxy.qzz.io](https://blog.skyxy.qzz.io)
-### cf原站blog : [https://blog.skyxy.dpdns.org](https://blog.skyxy.dpdns.org)
-### 友链 : [https://blog.skyxy.qzz.io/links](https://blog.skyxy.qzz.io/links)
+### eo加速blog : [https://blog.skyxy.qzz.io/](https://blog.skyxy.qzz.io/)
+### cf原站blog : [https://blog.skyxy.dpdns.org/](https://blog.skyxy.dpdns.org/)
+### 友链 : [https://blog.skyxy.qzz.io/link/](https://blog.skyxy.qzz.io/link)
