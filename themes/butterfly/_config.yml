@@ -694,17 +694,17 @@ microsoft_clarity:
 
 # https://umami.is/
 umami_analytics:
-  enable: false
+  enable: true
   # For self-hosted setups, configure the hostname of the Umami instance
-  serverURL:
-  website_id:
+  serverURL: blog.skyxy.qzz.io
+  website_id: 607d0d4d-86a8-4253-96d4-1290165ebb68
   option:
   UV_PV:
     site_uv: false
     site_pv: false
     page_pv: false
     # Umami Cloud (API key) / self-hosted Umami (token)
-    token:
+    token: api_wRQD8WxoHKCLmirElz6pdMBf48huTJsl
 
 # https://www.googletagmanager.com/
 google_tag_manager:
