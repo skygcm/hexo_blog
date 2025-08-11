@@ -4,12 +4,16 @@
     - name: 网易云音乐免费下载工具
       link: https://ndl.skyxy.dpdns.org/
       avatar: /images/ndl.png
-      descr: SVIP音乐免费下载
+      descr: SVIP音乐免费下载（暂不可用）
     - name: skycloud天空云邮箱
       link: https://mail.skyxy.dpdns.org/
       avatar: /images/skycloud.svg
       descr: 免费邮箱系统
     - name: gitlab
-      link: https://gitlab.com/skyxy-group
+      link: https://gitlab.com/skyxy-group/
       avatar: /images/gitlab.svg
       descr: GitLab个人主页
+    - name: github
+      link: https://github.com/skygcm/
+      avatar: /images/github.webp
+      descr: GitHub个人主页
